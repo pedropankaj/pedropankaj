@@ -2,7 +2,7 @@
     
       
 
-I'm a Full Stack React and Vue Js Developer. 
+I'm a Full Stack React.js and Vue.js Developer. 
 
 
 ### :mailbox_with_mail: Contact Me on:
