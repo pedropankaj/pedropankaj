@@ -5,7 +5,7 @@
 I'm a Full Stack React.js and Vue.js Developer. 
 
 ### Overall
-<img height="48" width="48" src="./assets/javascript.svg" alt="JavaScript logo" /> <img height="48" width="48" src="./assets/typescript.svg" alt="TypeScript logo" /> <img height="48" width="48" src="./assets/php.svg" alt="PHP logo" /> <img height="48" width="48" src="./assets/css.svg" alt="CSS logo" />
+<img height="48" width="48" src="./assets/javascript.svg" alt="JavaScript logo" /> <img height="48" width="48" src="./assets/typescript.svg" alt="TypeScript logo" /> <img height="48" width="48" src="./assets/css.svg" alt="CSS logo" />
 
 ### Frontend
 <img height="48" width="48" src="./assets/react.svg" alt="React logo" /> <img height="48" width="48" src="./assets/next.svg" alt="Next logo" /> <img height="48" width="48" src="./assets/vue.svg" alt="Vue.js logo" /> <img height="48" width="48" src="./assets/nuxt.svg" alt="Nuxt logo" /> <img height="48" width="48" src="./assets/tailwind.svg" alt="Tailwind CSS logo" />
