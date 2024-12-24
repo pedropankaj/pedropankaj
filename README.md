@@ -1,6 +1,6 @@
 ## Hi :wave:, I'm Pankaj Kumar   
     
-I'm a Full Stack React.js and Vue.js Developer. 
+I'm a Fullstack React.js and Vue.js Developer. 
 
 ### :hammer_and_wrench: Languages and Tools :
 
