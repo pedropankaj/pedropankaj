@@ -15,9 +15,7 @@ I'm a Fullstack React.js, Vue.js, Astro.js Developer.
 Email mail.guptaz@gmail.com
 
 ### :fire: My Stats :
-<a href="">
+<div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedropankaj" />
-</a>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedropankaj&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedropankaj&layout=compact&langs_count=8&card_width=200" />
+</div>
