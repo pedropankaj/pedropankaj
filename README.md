@@ -18,3 +18,6 @@ I'm a Fullstack React.js, Vue.js, Astro.js Developer.
 
 ### :bust_in_silhouette: Profile Views:
 ![Visitor Count](https://komarev.com/ghpvc/?username=pedropankaj&color=blue)
+
+### :mailbox_with_mail: Connect with me:
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail)](mailto:mail.guptaz@gmail.com)
