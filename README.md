@@ -10,10 +10,6 @@ I'm a Fullstack React.js, Vue.js, Astro.js Developer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="60" height="60"/>&nbsp;
 </div>
 
-### :mailbox_with_mail: Contact Me on :
-
-Email mail.guptaz@gmail.com
-
 ### :fire: My Stats :
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedropankaj" />
