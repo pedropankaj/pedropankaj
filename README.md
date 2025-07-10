@@ -1,7 +1,7 @@
 ## Hi :wave:, I'm Pankaj Kumar
 
 ## :man_technologist: About me
-I'm a Fullstack React.js, Vue.js, Astro.js, Node.js Developer. 
+I'm a Fullstack React.js, Vue.js, Svelte.js, Astro.js, Node.js Developer. 
 
 ### :hammer_and_wrench: Languages:
 <div>
